@@ -9,11 +9,8 @@ while t < k
 
     if year%4==0 && 1000 <= year &&  year <= 100000
         puts "yes,this leap year"
-
-    elsif  year%4!=0 && 1000 <=year  && year <= 100000
-        puts "no,this not leap year"
-
+        
     else    
-
+        puts "no,this not leap year"
     end
 end
