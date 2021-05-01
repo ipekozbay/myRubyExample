@@ -1,3 +1,4 @@
+print "number of attempts"
 k=gets.chomp.to_i
 t=0
 
