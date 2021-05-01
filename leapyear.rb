@@ -8,10 +8,10 @@ while t < k
     year=gets.chomp.to_i
 
     if year%4==0 && 1000 <= year &&  year <= 100000
-        puts "yes"
+        puts "yes,this leap year"
 
     elsif  year%4!=0 && 1000 <=year  && year <= 100000
-        puts "no"
+        puts "no,this not leap year"
 
     else    
 
