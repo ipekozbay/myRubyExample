@@ -1,5 +1,3 @@
-
-
 print "dort basamakli sayinin ilk rakamini giriniz: "
 ilkrakam = gets.to_i
 
