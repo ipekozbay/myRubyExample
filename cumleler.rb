@@ -1,5 +1,3 @@
-  # utf-8 hatasina bir cozum bulamadigimdan cümleler.txt dosyasindaki tukrce karakterleri ingilizceye cevirdim kullanicidan veri alinan yerlerde turkce karakter kullanmadiginizda sikinti olmuyor hocam kodda.
-
    cumleler = File.read("cümleler.txt")
 
    cumlelerden_kelime = cumleler.split
